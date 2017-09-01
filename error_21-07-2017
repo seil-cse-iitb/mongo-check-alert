@@ -1,0 +1,4 @@
+11:49:33
+<class 'socket.gaierror'>12:15:27
+<class 'smtplib.SMTPAuthenticationError'>12:30:35
+<class 'smtplib.SMTPServerDisconnected'>
